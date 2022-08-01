@@ -191,7 +191,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -301,60 +301,60 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &26206346641250992
+--- !u!1001 &1585868644375665629
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 184964525852613251, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 3754863811881297882, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_Name
-      value: Table
+      value: Chair
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6130207669339751678, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+    - target: {fileID: 8123927889077843804, guid: 956339e03c28788428f63e1e082a015b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a4999838a5c25cd4196a76be5a136502, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 956339e03c28788428f63e1e082a015b, type: 3}
