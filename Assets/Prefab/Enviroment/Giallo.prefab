@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 477069973319102586}
   - component: {fileID: 372009812957352540}
   m_Layer: 0
-  m_Name: Giello
+  m_Name: Giallo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
